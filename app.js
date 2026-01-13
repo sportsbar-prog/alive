@@ -1,7 +1,7 @@
 // keep-alive.js
 
 const URLS = [
-  "https://bot-main-2-3q3g.onrender.com",
+  "https://alive2.vercel.app",
   "https://bot-main-9k83.onrender.com"
 ];
 
